@@ -42,6 +42,11 @@ a {
   color: dimgray;
 }
 
+.btn-primary:hover {
+  background-color: #2323bd;
+  color: white;
+}
+
 .form-bg {
   background-image: url('/assets/form-bg-shape-desktop.svg');
   background-size: 100%;
