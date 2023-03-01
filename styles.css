@@ -41,3 +41,16 @@ a {
   font-size: 0.5rem;
   color: dimgray;
 }
+
+.img {
+  width: 100%;
+}
+
+.F {
+  border-radius: 0 5rem 0 0;
+  padding: 5rem;
+}
+
+.G {
+  width: 3rem;
+}
