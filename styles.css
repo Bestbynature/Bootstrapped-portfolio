@@ -1,0 +1,72 @@
+body {
+  background-color: #e5e5e5;
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  padding: 1rem 4rem;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.A {
+  border-radius: 0 0 0 5rem;
+  background-image: url(./assets/desktop_background.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 12rem 10rem;
+}
+
+.B {
+  background-color: #e5e5e5;
+}
+
+.C {
+  color: #2323bd;
+}
+
+.D a {
+  color: dimgrey;
+  font-size: 1rem;
+}
+
+.list-group-item {
+  border: none;
+}
+
+.E {
+  font-size: 0.5rem;
+  color: dimgray;
+}
+
+.img {
+  width: 100%;
+}
+
+.F {
+  border-radius: 0 5rem 0 0;
+  padding: 5rem;
+}
+
+.G {
+  width: 3rem;
+}
+
+.btn-primary:hover {
+  background-color: #2323bd;
+  color: white;
+}
+
+.form-bg {
+  background-image: url('/assets/form-bg-shape-desktop.svg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.form-shapes {
+  background-image: url('/assets/contact-form-background-shapes.svg');
+  background-size: 100%;
+}
