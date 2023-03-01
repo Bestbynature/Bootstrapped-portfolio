@@ -36,3 +36,8 @@ a {
 .list-group-item {
   border: none;
 }
+
+.E {
+  font-size: 0.5rem;
+  color: dimgray;
+}
