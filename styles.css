@@ -41,3 +41,14 @@ a {
   font-size: 0.5rem;
   color: dimgray;
 }
+
+.form-bg {
+  background-image: url('/assets/form-bg-shape-desktop.svg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.form-shapes {
+  background-image: url('/assets/contact-form-background-shapes.svg');
+  background-size: 100%;
+}
